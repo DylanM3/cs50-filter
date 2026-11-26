@@ -13,4 +13,4 @@ A command-line image processing program written in the C programming language th
 
 #
 
-Developed as apart of the curriculum for [Harvard University's CS50X: Introduction to Computer Science](https://cs50.harvard.edu/x/2025/psets/4/filter/)
+Developed as apart of the curriculum for [Harvard University's CS50X: Introduction to Computer Science](https://cs50.harvard.edu/x/2025/psets/4/filter/less/)
